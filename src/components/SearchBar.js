@@ -13,7 +13,7 @@ const SearchBar = ({ onFormSubmit }) => {
         }}
       >
         <div className="field">
-          <label>Search For A Video</label>
+          <label>Video Search</label>
           <input
             type="text"
             value={term}
